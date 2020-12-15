@@ -13,5 +13,6 @@
 *.xcuserdatad
 
 build/
+.build/
 
 Pods
